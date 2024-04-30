@@ -1,0 +1,17 @@
+{
+  "Name": "CLASSNAMEOVERRIDE",
+  "Path": "py",
+  "Arguments": "Parameters/CLASSNAMEOVERRIDE/classnameoverride.py ",
+  "Order": 11.5,
+  "DoRun": false,
+  "ReadOutput": true,
+  "Description": "Override classname of entities when they spawn.",
+  "Warning": "",
+  "PresetDefault": false,
+  "CheckExitCode": true,
+  "BasisString": "$mapCopyLocation$",
+  "SupportsBSP": true,
+  "IncompatibleGames": null,
+  "CompatibleGames": null,
+  "WorkingDirectory": null
+}

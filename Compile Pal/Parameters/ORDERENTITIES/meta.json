@@ -1,0 +1,17 @@
+{
+  "Name": "ORDERENTITIES",
+  "Path": "py",
+  "Arguments": "Parameters/ORDERENTITIES/orderentities.py ",
+  "Order": 0.0,
+  "DoRun": false,
+  "ReadOutput": true,
+  "Description": "Change order of entities.",
+  "Warning": "",
+  "PresetDefault": false,
+  "CheckExitCode": true,
+  "BasisString": "$vmfFile$",
+  "SupportsBSP": false,
+  "IncompatibleGames": null,
+  "CompatibleGames": null,
+  "WorkingDirectory": null
+}

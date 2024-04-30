@@ -1,0 +1,17 @@
+{
+  "Name": "STRIPLIGHTS",
+  "Path": "py",
+  "Arguments": "Parameters/STRIPLIGHTS/striplights.py ",
+  "Order": 11.5,
+  "DoRun": false,
+  "ReadOutput": true,
+  "Description": "Strip light entities.",
+  "Warning": "",
+  "PresetDefault": false,
+  "CheckExitCode": true,
+  "BasisString": "$mapCopyLocation$",
+  "SupportsBSP": true,
+  "IncompatibleGames": null,
+  "CompatibleGames": null,
+  "WorkingDirectory": null
+}
