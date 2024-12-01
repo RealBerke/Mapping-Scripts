@@ -141,7 +141,7 @@ def Main():
 
 												iPackListLength = len(lPackList)
 
-												if len(lPackList):
+												if iPackListLength:
 													if iPackListLength == 1:
 														print("Pack this model:")
 
