@@ -1,0 +1,17 @@
+{
+  "Name": "SETMODELSUPPORT",
+  "Path": "py",
+  "Arguments": "Parameters/SETMODELSUPPORT/setmodelsupport.py $mapCopyLocation$ $game$ $bspZip$",
+  "Order": 11.5,
+  "DoRun": true,
+  "ReadOutput": true,
+  "Description": "Adds support for \"SetModel\" input for games that don't support it.",
+  "Warning": "",
+  "PresetDefault": false,
+  "CheckExitCode": true,
+  "BasisString": "",
+  "SupportsBSP": true,
+  "IncompatibleGames": null,
+  "CompatibleGames": null,
+  "WorkingDirectory": null
+}

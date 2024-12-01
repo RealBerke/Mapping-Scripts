@@ -1,0 +1,9 @@
+[
+	{
+		Name: "Prop Data File",
+		Parameter: " ",
+		Description: "\"propdata.txt\" file to be modified. Can be a \"VPK\" file.",
+		ValueIsFile: true,
+		CanHaveValue: true
+	}
+]
