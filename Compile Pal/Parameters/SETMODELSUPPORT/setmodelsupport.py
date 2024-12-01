@@ -129,7 +129,7 @@ def Main():
 
 												BSP.save()
 
-												lPackList = list()
+												lPacks = list()
 
 												strFixedGameFolder = strGameFolder.replace("\\", "/")
 
@@ -137,18 +137,18 @@ def Main():
 													strModelPath = strFixedGameFolder + "/" + strModel
 
 													if isfile(strModelPath):
-														lPackList.append(strModelPath)
+														lPacks.append(strModelPath)
 
-												iPackListLength = len(lPackList)
+												iPackLength = len(lPacks)
 
-												if iPackListLength:
-													if iPackListLength == 1:
+												if iPackLength:
+													if iPackLength == 1:
 														print("Pack this model:")
 
 													else:
 														print("Pack these models:")
 
-													for strPack in lPackList:
+													for strPack in lPacks:
 														print(strPack)
 
 												if iFileType == 1:
